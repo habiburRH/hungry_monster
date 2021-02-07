@@ -1,0 +1,20 @@
+div#all-menus {
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-gap: 10px;
+}
+
+img {
+    width:200px;
+}
+#search {
+    width: 357px;
+    margin: 4px;
+  }
+  
+  #searchdiv{
+    width: 357px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    
+  }
